@@ -49,3 +49,6 @@ Cada cálculo foi implementado em **funções separadas**, garantindo organizaç
 2. Instale as dependências:  
    ```bash
    npm install
+3. Rode o projeto
+   ```bash
+   npm start
