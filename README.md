@@ -10,6 +10,13 @@ Este repositório contém minha solução para a avaliação técnica do process
 Criar um formulário simples, mas visualmente agradável, apenas com **HTML, CSS e JavaScript puro**.  
 Os critérios foram:
 
+● Fundo da página na cor preta;  
+● Campos de texto e botões com cantos arredondados;  
+● Fonte clara e contraste apropriado para leitura;  
+● O formulário não precisa funcionar (sem envio de dados); ● Pode usar apenas HTML, 
+CSS e JavaScript puro; 
+● Código bem estruturado, limpo e organizado.  
+
 ### 🚀 Como visualizar
 1. Entre na pasta `formulario-estilizado/`.
 2. Abra o arquivo `index.html` no navegador.  
